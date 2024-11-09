@@ -1,0 +1,105 @@
+{
+  "timeOut": "9/23/2024 11:22:31 PM",
+  "timeIn": null,
+  "positionPlayer": {
+    "x": -2.543179,
+    "y": 6.99758148,
+    "z": -0.228892744
+  },
+  "inventory": [
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      6
+    ]
+  ],
+  "gold": 9999,
+  "rations": [
+    [
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      },
+      {
+        "indexRation": -1,
+        "timeRation": 0.0,
+        "isWater": false
+      }
+    ]
+  ],
+  "poultry": [
+    {
+      "isEating": true,
+      "timeRun": 0.0
+    }
+  ],
+  "cattle": [
+    {
+      "isEating": true,
+      "timeRun": 0.0
+    }
+  ],
+  "fruitTrees": [
+    {
+      "isFruit": true,
+      "timeColldowTree": 0.0
+    },
+    {
+      "isFruit": true,
+      "timeColldowTree": 0.0
+    },
+    {
+      "isFruit": false,
+      "timeColldowTree": 8.386569
+    }
+  ],
+  "berryTrees": [
+    {
+      "isFruit": false,
+      "timeColldowTree": 1.39204824
+    },
+    {
+      "isFruit": false,
+      "timeColldowTree": 0.4883465
+    }
+  ]
+}
